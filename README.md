@@ -235,9 +235,22 @@ const currentProjects = {
 ---
 
 ## 📝 Latest Blog Posts
-https://zameerblog.vercel.app/post/EIYgwZVptHlTOQcOSexF
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://zameerblog.vercel.app/post/EIYgwZVptHlTOQcOSexF">
+        <img src="https://www.inspirisys.com/uploads/blog_image/AI-Tools-for-Code-Generation.png" alt="Top 10 AI Tools Blog" />
+      </a>
+    </td>
+    <td width="50%">
+      <strong>🚀 Top 10 AI Coding Tools in 2026</strong><br/>
+      Building with React Quill, I explored the best AI tools for developers...
+      <br/><br/>
+      <a href="https://zameerblog.vercel.app/post/EIYgwZVptHlTOQcOSexF">Read More →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
