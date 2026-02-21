@@ -235,6 +235,7 @@ const currentProjects = {
 ---
 
 ## 📝 Latest Blog Posts
+https://zameerblog.vercel.app/post/EIYgwZVptHlTOQcOSexF
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
